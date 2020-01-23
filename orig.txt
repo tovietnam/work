@@ -2,21 +2,21 @@
 #branch 1 一日の始まり asa y
 #branch 2 一日の終わり yoru n
 ## asa
-#back img8/朝.png
-#putChar img8/ユキ.png L
+#back 朝.png
+#putChar ユキ.png L
 【ユキ】\nおはよ～♡
-#delChar img8/ユキ.png L
-#putChar img8/啓太.png R
+#delChar ユキ.png L
+#putChar 啓太.png R
 【啓太】\nおはよー!\n今日もはりきっていこうね。
 【啓太】\n昨日立てた計画によると、今日やりたいのは‥‥‥
 #out
 #end
 ## yoru
-#back img8/夜.png
-#putChar img8/ユキ.png L
+#back 夜.png
+#putChar ユキ.png L
 【ユキ】\n今日もおつかれ～♡
-#delChar img8/ユキ.png L
-#putChar img8/啓太.png R
+#delChar ユキ.png L
+#putChar 啓太.png R
 【啓太】\nおつかれー！！　
 【啓太】\n今日の勉強はどんな感じだったかな？
 #branch 1 はかどった ok y
